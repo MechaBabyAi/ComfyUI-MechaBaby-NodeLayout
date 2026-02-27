@@ -28,7 +28,7 @@ Documentation = "https://github.com/MechaBabyAi/ComfyUI-MechaBaby-NodeLayout/wik
 "Bug Tracker" = "https://github.com/MechaBabyAi/ComfyUI-MechaBaby-NodeLayout/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "mechbaby"
 DisplayName = "ComfyUI-MechaBaby-NodeLayout"
 Icon = ""
 includes = [] 
